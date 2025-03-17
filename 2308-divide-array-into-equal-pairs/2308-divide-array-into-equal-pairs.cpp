@@ -1,20 +1,18 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
-        unordered_set<int> numSet;
+        unordered_map<int, int> freq;
 
         for(int i = 0; i < nums.size(); i++){
-            if(numSet.contains(nums[i])){
-                numSet.erase(nums[i]);
-            } else {
-                numSet.insert(nums[i]);
+            freq[nums[i]]++;
+        }
+
+        for(auto i = freq.begin(); i != freq.end(); i++){
+            if(i->second % 2 == 1){
+                return false;
             }
         }
 
-        if(numSet.size() == 0){
-            return true;
-        }
-
-        return false;
+        return true;
     }
 };
