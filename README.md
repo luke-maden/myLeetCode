@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/luke-maden/myLeetCode/tree/master/0011-container-with-most-water) |
+| [1791-richest-customer-wealth](https://github.com/luke-maden/myLeetCode/tree/master/1791-richest-customer-wealth) |
 | [2308-divide-array-into-equal-pairs](https://github.com/luke-maden/myLeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/luke-maden/myLeetCode/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/luke-maden/myLeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
