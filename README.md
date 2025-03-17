@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/luke-maden/myLeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/luke-maden/myLeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Recursion
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/luke-maden/myLeetCode/tree/master/0011-container-with-most-water) |
 | [2308-divide-array-into-equal-pairs](https://github.com/luke-maden/myLeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/luke-maden/myLeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/luke-maden/myLeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
