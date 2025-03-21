@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/luke-maden/myLeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/luke-maden/myLeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/luke-maden/myLeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/luke-maden/myLeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/luke-maden/myLeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/luke-maden/myLeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
