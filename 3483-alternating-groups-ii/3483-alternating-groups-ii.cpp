@@ -68,8 +68,12 @@ public:
             } else if(colors[end % size] != colors[(end + 1) % size]){
                 end++;
             } else {
+                if(end == orig){
+                    start = end;
+                } else {
                 start = end + 1;
                 end += 2;
+                }
             }
         }
 
