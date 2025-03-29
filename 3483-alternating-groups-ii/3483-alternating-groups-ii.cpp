@@ -53,19 +53,20 @@ public:
         }
         while(start % size != orig){
             int diff = end - start;
+            int ems = end % size;
             if(diff == k){
                 numCyc++;
-                if(colors[end % size] != colors[(end + 1) % size]){
+                if(colors[ems] != colors[(end + 1) % size]){
                     start++;
                     end++;
                 } else {
                     start = end + 1;
                     end += 2;
                 }
-            } else if(diff == 1 && colors[start % size] == colors[end % size]){
+            } else if(diff == 1 && colors[start % size] == colors[ems]){
                 start++;
                 end++;
-            } else if(colors[end % size] != colors[(end + 1) % size]){
+            } else if(colors[ems] != colors[(end + 1) % size]){
                 end++;
             } else {
                 if(end == orig){
