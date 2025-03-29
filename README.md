@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/luke-maden/myLeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/luke-maden/myLeetCode/tree/master/1791-richest-customer-wealth) |
 | [2308-divide-array-into-equal-pairs](https://github.com/luke-maden/myLeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3483-alternating-groups-ii](https://github.com/luke-maden/myLeetCode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/luke-maden/myLeetCode/tree/master/0226-invert-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [3483-alternating-groups-ii](https://github.com/luke-maden/myLeetCode/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
