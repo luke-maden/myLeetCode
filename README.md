@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 | [0011-container-with-most-water](https://github.com/luke-maden/myLeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/luke-maden/myLeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/luke-maden/myLeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0768-partition-labels](https://github.com/luke-maden/myLeetCode/tree/master/0768-partition-labels) |
 ## Recursion
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/luke-maden/myLeetCode/tree/master/0768-partition-labels) |
 | [2308-divide-array-into-equal-pairs](https://github.com/luke-maden/myLeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/luke-maden/myLeetCode/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/luke-maden/myLeetCode/tree/master/0768-partition-labels) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/luke-maden/myLeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 ## Matrix
 |  |
@@ -69,4 +72,8 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 |  |
 | ------- |
 | [3483-alternating-groups-ii](https://github.com/luke-maden/myLeetCode/tree/master/3483-alternating-groups-ii) |
+## String
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/luke-maden/myLeetCode/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
