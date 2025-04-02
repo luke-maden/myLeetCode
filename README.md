@@ -55,10 +55,12 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/luke-maden/myLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/luke-maden/myLeetCode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/luke-maden/myLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/luke-maden/myLeetCode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/luke-maden/myLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/luke-maden/myLeetCode/tree/master/0226-invert-binary-tree) |
 ## Sliding Window
 |  |
@@ -76,4 +79,8 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/luke-maden/myLeetCode/tree/master/0768-partition-labels) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/luke-maden/myLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
