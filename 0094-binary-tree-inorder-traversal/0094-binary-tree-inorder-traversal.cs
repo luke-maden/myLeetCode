@@ -13,13 +13,13 @@
  */
 public class Solution {
     public IList<int> InorderTraversal(TreeNode root) {
-        IList<int> result = new List<int>();
+        List<int> result = new List<int>();
 
         traverse(root, result);
         return result;
     }
 
-    private void traverse(TreeNode root, IList<int> result) {
+    private void traverse(TreeNode root, List<int> result) {
         if(root == null){
             return;
         }
