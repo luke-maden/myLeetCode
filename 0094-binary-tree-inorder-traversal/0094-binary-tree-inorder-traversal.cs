@@ -15,17 +15,17 @@ public class Solution {
     public IList<int> InorderTraversal(TreeNode root) {
         IList<int> result = new List<int>();
 
-        traverse(root,ref result);
+        traverse(root, result);
         return result;
     }
 
-    public void traverse(TreeNode root, ref IList<int> result) {
+    private void traverse(TreeNode root, IList<int> result) {
         if(root == null){
             return;
         }
 
-        traverse(root.left, ref result);
+        traverse(root.left, result);
         result.Add(root.val);
-        traverse(root.right, ref result);
+        traverse(root.right, result);
     }
 }
