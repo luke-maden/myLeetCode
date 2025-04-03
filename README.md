@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/luke-maden/myLeetCode/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/luke-maden/myLeetCode/tree/master/0136-single-number) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/luke-maden/myLeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/luke-maden/myLeetCode/tree/master/1791-richest-customer-wealth) |
 | [2308-divide-array-into-equal-pairs](https://github.com/luke-maden/myLeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/luke-maden/myLeetCode/tree/master/0136-single-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/luke-maden/myLeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
