@@ -85,4 +85,8 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/luke-maden/myLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Database
+|  |
+| ------- |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/luke-maden/myLeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
