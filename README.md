@@ -90,5 +90,6 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 | ------- |
 | [0175-combine-two-tables](https://github.com/luke-maden/myLeetCode/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/luke-maden/myLeetCode/tree/master/0178-rank-scores) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/luke-maden/myLeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/luke-maden/myLeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
