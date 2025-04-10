@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 | [0136-single-number](https://github.com/luke-maden/myLeetCode/tree/master/0136-single-number) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/luke-maden/myLeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/luke-maden/myLeetCode/tree/master/1791-richest-customer-wealth) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/luke-maden/myLeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/luke-maden/myLeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3483-alternating-groups-ii](https://github.com/luke-maden/myLeetCode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interviews! You can find my
 | [0178-rank-scores](https://github.com/luke-maden/myLeetCode/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/luke-maden/myLeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/luke-maden/myLeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
+## Math
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/luke-maden/myLeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/luke-maden/myLeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
